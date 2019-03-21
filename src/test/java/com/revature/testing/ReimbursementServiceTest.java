@@ -1,4 +1,4 @@
-package com.revature.testing;
+/*package com.revature.testing;
 
 import static org.junit.Assert.assertTrue;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 import com.revature.service.ReimbursementService;
 
 
-/**
+
 
 public class ReimbursementServiceTest {
 
@@ -41,3 +41,4 @@ public class ReimbursementServiceTest {
     	assertTrue(ReimbursementService.getReimbursementService().getAllResolvedRequests().size() > 0);
     }
 }
+*/

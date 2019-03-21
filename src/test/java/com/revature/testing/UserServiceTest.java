@@ -1,4 +1,4 @@
-package com.revature.testing;
+/*package com.revature.testing;
 
 import static org.junit.Assert.assertTrue;
 
@@ -11,7 +11,7 @@ import com.revature.model.User;
 import com.revature.service.UserService;
 
 
-/**
+
 public class UserServiceTest {
 	private User testUser;
 	private User testLoginUser;
